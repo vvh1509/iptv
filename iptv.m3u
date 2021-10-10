@@ -349,12 +349,6 @@ http://103.195.239.138/hits/mpegts
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg",CINEMAX
 https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="foxsportshd" group-title="Quốc Tế" tvg-logo="https://static.megavie.live/media/foxsportshd.jpg",FOX SPORT
-http://38.131.11.9:1080/play/a02k
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg",FOX SPORT 2
-http://38.131.11.9:1080/play/a033
-#EXTINF:-1 tvg-id="foxsports3hd" group-title="Quốc Tế" tvg-logo="https://static.megavie.live/media/foxsports3hd.jpg",FOX SPORT 3
-http://38.131.11.9:1080/play/a034
 #EXTINF:-1 tvg-id="axn" group-title="Quốc Tế" tvg-logo="https://static.megavie.live/media/axn.png",AXN HD
 https://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://static.megavie.live/media/warnertvhd.jpg",Warner TV
